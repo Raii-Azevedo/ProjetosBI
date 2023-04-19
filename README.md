@@ -9,13 +9,14 @@
   - Avaliação Técnica de funcionários na empresa fictícia FIC SA.
   ![](https://github.com/Raii-Azevedo/ProjetosBI/blob/master/Avalia%C3%A7%C3%A3o-Colaborador/modelo.gif)
   - [Clique Aqui]()
+
 ## Tecnologia
  - PowerBI
 
  
 ## Links
  
-  - Repository: https://github.com/Raii-Azevedo/LongLife
+  - Repository: https://github.com/Raii-Azevedo/ProjetosBI
  
  
 ## Authors
