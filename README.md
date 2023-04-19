@@ -1,4 +1,4 @@
-![PowerBI]()
+![PowerBI](https://github.com/Raii-Azevedo/ProPowerBI/blob/master/Imagens/BI-logo.png)
  
 ## Descrição
 - Projetos de Dashboards realizados com Excel e PowerBI
@@ -7,7 +7,8 @@
 ## Projetos
 ### Avaliação Funcionário
   - Avaliação Técnica de funcionários na empresa fictícia FIC SA.
-  - [Clique Aqui](https://github.com/Raii-Azevedo/ProjetosBI/blob/master/Avalia%C3%A7%C3%A3o-Colaborador/modelo.gif)
+  ![](https://github.com/Raii-Azevedo/ProjetosBI/blob/master/Avalia%C3%A7%C3%A3o-Colaborador/modelo.gif)
+  - [Clique Aqui]()
 ## Tecnologia
  - PowerBI
 
