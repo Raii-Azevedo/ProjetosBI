@@ -6,12 +6,19 @@
 ## Construção
     - Modelo Excel com: Nome, Mátricula, ImagemURL, Notas de atividades, Cargo e Data de entrada na Função.
     - Modelo utilizado para avaliar a capacidade técnica de um um funcionário + breve resumo cadastral.
-
-
-## Tecnologia
- - PowerBI
-
- 
+    
+## Inserindo imagem no BI
+    - Dispor de imagens JPG ou PNG
+    - Acessar: uploaddeimagens.com.br
+    - Fazer upload da imagem em seguida copiar o endereço URL da imagem eliminando toda data pós "?"
+   
+ ## No BI
+    - Realizar o tratamento da imagem mudando a "Categoria de Dados" Para URL da Imagem
+    
+ ## LongTextView
+  - Elemento visual que permite adicionar um grande texto costumizável para cada ator.
+  
+  
 ## Links
  
   - Repository: 
