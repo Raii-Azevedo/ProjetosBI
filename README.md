@@ -13,7 +13,12 @@
 
 ## Tecnologia
  - PowerBI
-
+ 
+### Importante
+    - Dimensão Exibição Relatório:
+    Tamanho A4:
+    Largura: 2480
+    Altura: 3504
  
 ## Links
  
