@@ -1,5 +1,5 @@
 
-<a href="url"><img src="https://github.com/Raii-Azevedo/ProPowerBI/blob/master/Imagens/BI-logo.png" align="center" height="200" width="300" ></a>
+<a href="url"><img src="https://github.com/Raii-Azevedo/ProPowerBI/blob/master/Imagens/BI-logo.png" align="center" height="150" width="300" ></a>
  
 ## Descrição
 - Projetos de Dashboards realizados com Excel e PowerBI
