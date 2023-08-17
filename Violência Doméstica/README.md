@@ -1,4 +1,4 @@
- ![](https://github.com/Raii-Azevedo/ProjetosBI/blob/master/Viol%C3%AAncia%20Dom%C3%A9stica/MAPA%20VIOL%C3%8ANCIA%20DE%20G%C3%8ANERO%20BRASIL%20-%20Power%20BI%20-%20Google%20Chrome%202023-08-17%2014-40-11.gif)
+ ![](https://github.com/Raii-Azevedo/ProjetosBI/blob/master/Viol%C3%AAncia%20Dom%C3%A9stica/MAPA%20VIOLENCIA%20DE%20GENERO%20NO%20BRASIL.gif)
 
 ### MAPA DA VIOLÊNCIA DE GÊNERO DO BRASIL
   - Dashboard criado com dados coletados do SINAN de 1996 a 2019 a respeito dos índices de violência contra a mulher no Brasil.
