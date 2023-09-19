@@ -1,4 +1,4 @@
- ![]()
+ ![](https://github.com/Raii-Azevedo/ProjetosBI/blob/master/Relatório%20de%20Vendas/Relatório%20de%20Vendas.gif)
 
 ### RELATÓRIO DE VENDAS
   - Dashboard criado com dados coletados sobre vendas de produtos ao redor do globo. Bem como a análise de produtos mais vendidos, faturamento e quantidade|data.
