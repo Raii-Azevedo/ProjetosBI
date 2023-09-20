@@ -29,7 +29,7 @@
 
 <table>
   <tr>
-    <td><img src="" width="400" alt="Imagem"></td>
+    <td><img src="https://github.com/Raii-Azevedo/ProjetosBI/blob/master/Produção/Relatorio%20de%20Produção.gif" width="400" alt="Imagem"></td>
     <td>
       <h2 src="https://github.com/Raii-Azevedo/ProjetosBI/tree/master/Produção">Relatório de Produção</h2>
       <p>Dashboard ficticio criado com dados de produção e % de produtividade de cada funcionário em uma empresa</p>
