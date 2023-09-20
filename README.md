@@ -3,8 +3,8 @@
 </div>
 
 ## Descrição
-- Projetos de Dashboards realizados com Excel e PowerBI
-- Dashboard projects made with Excel and PowerBI
+- Projetos de Dashboards realizados com PowerBI
+- Dashboard projects made with PowerBI
 
 ## Projetos
 
