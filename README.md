@@ -1,5 +1,5 @@
 <div align="center">
-  <img src= img src="https://github.com/Raii-Azevedo/ProPowerBI/blob/master/Imagens/BI-logo.png" height="150" width="300">
+  <img src= img src="https://github.com/Raii-Azevedo/ProPowerBI/blob/master/Imagens/BI-logo.png">
 </div>
 
  
