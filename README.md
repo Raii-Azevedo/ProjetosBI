@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="imagem.png" alt="Imagem">
+</div>
 
 ## Descrição
 - Projetos de Dashboards realizados com Excel e PowerBI
