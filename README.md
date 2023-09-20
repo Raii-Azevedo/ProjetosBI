@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Raii-Azevedo/ProjetosBI/blob/master/Power-Bi-Logo-PNG.png" width="300" height = "100">
+  <img src="https://github.com/Raii-Azevedo/ProjetosBI/blob/master/Power-Bi-Logo-PNG.png" width="250" height = "100">
 </div>
 
 ## Descrição
