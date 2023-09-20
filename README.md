@@ -1,8 +1,4 @@
-<div align="center">
-  <img src= img src="https://github.com/Raii-Azevedo/ProPowerBI/blob/master/Imagens/BI-logo.png">
-</div>
 
- 
 ## Descrição
 - Projetos de Dashboards realizados com Excel e PowerBI
 - Dashboard projects made with Excel and PowerBI
