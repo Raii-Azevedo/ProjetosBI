@@ -12,7 +12,7 @@
   <tr>
     <td><img src="https://github.com/Raii-Azevedo/ProjetosBI/blob/master/Viol%C3%AAncia%20Dom%C3%A9stica/Mapa%20Viol%C3%AAncia%20G%C3%AAnero.gif" width="400" alt="Imagem"></td>
     <td>
-      <h2><a href="https://github.com/Raii-Azevedo/ProjetosBI/tree/master/Violência%20Doméstica">Mapa da Violência de Gênero no Brasil</a></h2>
+      <h2><a href="https://github.com/Raii-Azevedo/ProjetosBI/tree/master/Violência%20Doméstica">Violência de Gênero no Brasil</a></h2>
       <p>Dashboard criado com dados coletados do SINAN de 1996 a 2019 a respeito dos índices de violência contra a mulher no Brasil.</p>
     </td>
   </tr>
@@ -22,7 +22,7 @@
   <tr>
     <td><img src="https://github.com/Raii-Azevedo/ProjetosBI/blob/master/Relatório%20de%20Vendas/Relatório%20de%20Vendas.gif" width="400" alt="Imagem"></td>
     <td>
-      <h2 src="https://github.com/Raii-Azevedo/ProjetosBI/tree/master/Relatório%20de%20Vendas">Relatório de Vendas</h2>
+      <h2><a src="https://github.com/Raii-Azevedo/ProjetosBI/tree/master/Relatório%20de%20Vendas">Relatório de Vendas</a></h2>
       <p>Dashboard criado com dados coletados sobre vendas de produtos ao redor do globo. Bem como a análise de produtos mais vendidos, faturamento e quantidade|data.</p>
     </td>
   </tr>
