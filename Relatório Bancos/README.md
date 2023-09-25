@@ -16,3 +16,21 @@
     </td>
   </tr>
 </table>
+
+## Composição
+- Dados de base financeira excel
+- Power BI
+
+
+## Realização
+- Cálcudos de DESPESAS = - CALCULATE(SUM('Movimentações'[Valor da Movimentação]), 'Movimentações'[Tipo] = "Pagamento"
+- Cálculos de MARGEM = [Lucro] / [Receita]
+- Cálculos de MARGEM AUXILIAR = 1 - 'Movimentações'[Margem]
+- Cálculos de DESVIO DE META = [Margem] - 0.3 (30%)
+- Cálculos de IMPOSTO = [Receita] * 0.15 (15%)
+- Cálculos de LUCRO = [Receita] - [Despesas] - 'Movimentações'[Imposto]
+- Cálculos de MOVIMENTAÇÕES PIX = CALCULATE(COUNTROWS('Movimentações'), 'Movimentações'[Forma Pagamento] = "PIX")
+- Cálculos de % PIX= 'Movimentações'[Movimentações Pix] / [Qts Movimentações]
+- Cálculos de PAGAMENTO = CALCULATE(SUM('Movimentações'[Valor da Movimentação]),'Movimentações'[Tipo] = "Pagamento")
+- Cálculos de QTD DE MOVIMENTAÇÕES = COUNTROWS('Movimentações')
+- Cálculos de RECEITA = CALCULATE(SUM('Movimentações'[Valor da Movimentação]), 'Movimentações'[Tipo] = "Recebimento")
