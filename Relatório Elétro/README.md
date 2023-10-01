@@ -36,6 +36,78 @@
               vContexto = "Atual", [Total Venda]
         )
 
+        -  2. Eixo Y MAX = 
+    VAR vTabela = ALLSELECTED(BaseVendas[Continente])
+
+    VAR vMaior_valor_anterior = 
+        MAXX(vTabela, [Total Venda Ano Anterior])
+
+    VAR vMaior_valor_atual = 
+        MAXX(vTabela, [Total Venda])
+
+    VAR vMaior = MAX(
+        vMaior_valor_anterior, vMaior_valor_atual
+    )
+
+    VAR vDeslocamento = 1.7
+
+    RETURN
+        vMaior * 1.7
+
+        - 3. Linha = 
+    VAR vTabela = ALLSELECTED(BaseVendas[Continente])
+
+    VAR vMaior_valor_anterior = 
+        MAXX(vTabela, [Total Venda Ano Anterior])
+
+    VAR vMaior_valor_atual = 
+        MAXX(vTabela, [Total Venda])
+
+    VAR vMaior = MAX(
+        vMaior_valor_anterior, vMaior_valor_atual
+    )
+
+    VAR vDeslocamento = 1.7
+
+    RETURN
+        IF(
+            NOT ISBLANK(vMaior_valor_anterior),
+                vMaior * 1.5
+        )
+        
+        - 4. Variacao = 
+    VAR vContexto = 
+        SELECTEDVALUE(Metrica[Metrica])
+    RETURN
+        IF(
+            vContexto = "",
+            [3. Linha],
+            BLANK()
+        )
+
+        - 5. Variacao Cor = 
+              IF (
+                  [Total Venda Variação] > 0, "#9CF894", "#FF0000"
+              )
+
+        - 6. Anterior Linha = VAR vContexto = 
+        SELECTEDVALUE(Metrica[Metrica])
+        RETURN
+        IF(
+            vContexto = "Anterior",
+            [3. Linha],
+            BLANK()
+        )
+
+        - 7. Atual Linha = VAR vContexto = 
+        SELECTEDVALUE(Metrica[Metrica])
+        RETURN
+        IF(
+            vContexto = "Atual",
+            [3. Linha],
+            BLANK()
+        )
+
   ### Let's connect? 🤝
   <div>
     <p align="center">
