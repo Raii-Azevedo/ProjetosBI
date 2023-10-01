@@ -19,6 +19,16 @@
 
 <table>
   <tr>
+    <td><img src="" width="400" alt="Imagem"></td>
+    <td>
+      <h2><a href="">Relatório EletroStore</a></h2>
+      <p>Dashboard relatório de comparação Vendas de lojas de gadgets eletrônicos.</p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <td><img src="https://github.com/Raii-Azevedo/ProjetosBI/blob/master/Relatório%20de%20RH/Relatório%20de%20RH.gif" width="400" alt="Imagem"></td>
     <td>
       <h2 src="https://github.com/Raii-Azevedo/ProjetosBI/tree/master/Relatório%20de%20RH">Relatório de RH</h2>
