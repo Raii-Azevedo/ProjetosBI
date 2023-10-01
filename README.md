@@ -21,7 +21,7 @@
   <tr>
     <td><img src="https://github.com/Raii-Azevedo/ProjetosBI/blob/master/Relatório%20Elétro/EletroStore.gif" width="400" alt="Imagem"></td>
     <td>
-      <h2><a href="">Relatório EletroStore</a></h2>
+      <h2><a href="https://github.com/Raii-Azevedo/ProjetosBI/tree/master/Relatório%20Elétro">Relatório EletroStore</a></h2>
       <p>Dashboard relatório de comparação Vendas de lojas de gadgets eletrônicos.</p>
     </td>
   </tr>
