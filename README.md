@@ -19,7 +19,7 @@
 
 <table>
   <tr>
-    <td><img src="" width="400" alt="Imagem"></td>
+    <td><img src="https://github.com/Raii-Azevedo/ProjetosBI/blob/master/Relatório%20Elétro/EletroStore.gif" width="400" alt="Imagem"></td>
     <td>
       <h2><a href="">Relatório EletroStore</a></h2>
       <p>Dashboard relatório de comparação Vendas de lojas de gadgets eletrônicos.</p>
