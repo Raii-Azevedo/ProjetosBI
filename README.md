@@ -47,6 +47,15 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td><img src="" width="400" alt="Imagem"></td>
+    <td>
+      <h2><a href="">Center RH</a></h2>
+      <p>Dashboard criado com tratamentos de dados no Power Query que envolvem porcentagem e gerenciamento de delimitadores</p>
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
