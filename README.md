@@ -19,6 +19,16 @@
 
 <table>
   <tr>
+    <td><img src="" width="400" alt="Imagem"></td>
+    <td>
+      <h2><a href="">Sales Performance Dashboard</a></h2>
+      <p>Dashboard relatório do balanço da primeira metade do ano de uma loja de produtos eletrônicos</p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <td><img src="https://github.com/Raii-Azevedo/ProjetosBI/blob/master/AIRPORT/airport.gif" width="400" alt="Imagem"></td>
     <td>
       <h2><a href="https://github.com/Raii-Azevedo/ProjetosBI/tree/master/AIRPORT">Airport Dashboard</a></h2>
