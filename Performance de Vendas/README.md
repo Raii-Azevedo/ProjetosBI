@@ -9,7 +9,7 @@
 
 ## Projetos
 <div align="center">
-  <img src="https://github.com/Raii-Azevedo/ProjetosBI/tree/master/Performance%20de%20Vendas" width="550" height = "350">
+  <img src="https://github.com/Raii-Azevedo/ProjetosBI/tree/master/Performance%20de%20Vendas" width="600" height = "350">
 </div>
 
 
