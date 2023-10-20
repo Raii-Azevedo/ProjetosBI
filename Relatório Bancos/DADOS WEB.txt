@@ -1,0 +1,4 @@
+DADOS DASHBOARD BANCOS
+LINK DE COMPARTILHAMENTO: https://app.powerbi.com/view?r=eyJrIjoiNTY4NGJlMjItMGQ1Mi00M2I5LTg4YjMtM2RkYzNhYTliNDllIiwidCI6IjkxMjlmMDBmLWE5YjctNGVhNy05ODYxLTYwZTZlYmU2OWQwNyJ9
+
+HTML: <iframe title="Report Section" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNTY4NGJlMjItMGQ1Mi00M2I5LTg4YjMtM2RkYzNhYTliNDllIiwidCI6IjkxMjlmMDBmLWE5YjctNGVhNy05ODYxLTYwZTZlYmU2OWQwNyJ9" frameborder="0" allowFullScreen="true"></iframe>
