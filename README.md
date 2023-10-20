@@ -29,6 +29,16 @@
 
 <table>
   <tr>
+    <td><img src="https://github.com/Raii-Azevedo/ProjetosBI/blob/master/Center%20RH/RH.gif" width="400" alt="Imagem"></td>
+    <td>
+      <h2><a href="https://github.com/Raii-Azevedo/ProjetosBI/tree/master/Center%20RH">Center RH</a></h2>
+      <p>Dashboard criado com tratamentos de dados no Power Query que envolvem porcentagem e gerenciamento de delimitadores</p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <td><img src="https://github.com/Raii-Azevedo/ProjetosBI/blob/master/AIRPORT/airport.gif" width="400" alt="Imagem"></td>
     <td>
       <h2><a href="https://github.com/Raii-Azevedo/ProjetosBI/tree/master/AIRPORT">Airport Dashboard</a></h2>
@@ -63,16 +73,6 @@
     <td>
       <h2><a src="https://github.com/Raii-Azevedo/ProjetosBI/tree/master/Relatório%20de%20Vendas">Relatório de Vendas</a></h2>
       <p>Dashboard criado com dados coletados sobre vendas de produtos ao redor do globo. Bem como a análise de produtos mais vendidos, faturamento e quantidade|data.</p>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td><img src="https://github.com/Raii-Azevedo/ProjetosBI/blob/master/Center%20RH/RH.gif" width="400" alt="Imagem"></td>
-    <td>
-      <h2><a href="https://github.com/Raii-Azevedo/ProjetosBI/tree/master/Center%20RH">Center RH</a></h2>
-      <p>Dashboard criado com tratamentos de dados no Power Query que envolvem porcentagem e gerenciamento de delimitadores</p>
     </td>
   </tr>
 </table>
