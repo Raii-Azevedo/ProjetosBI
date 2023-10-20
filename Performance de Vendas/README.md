@@ -8,7 +8,10 @@
 
 
 ## Projetos
-![](https://github.com/Raii-Azevedo/ProjetosBI/tree/master/Performance%20de%20Vendas)
+<div align="center">
+  <img src="https://github.com/Raii-Azevedo/ProjetosBI/tree/master/Performance%20de%20Vendas" width="450" height = "350">
+</div>
+
 
 ## Composição
 - Dados de base financeira excel
