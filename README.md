@@ -10,7 +10,7 @@
 
 <table>
   <tr>
-    <td><img src="" width="400" alt="Imagem"></td>
+    <td><img src="https://github.com/Raii-Azevedo/ProjetosBI/blob/master/Bank%20Test/GERAL.gif" width="400" alt="Imagem"></td>
     <td>
       <h2><a href="https://github.com/Raii-Azevedo/ProjetosBI/tree/master/Bank%20Test">Bank Report</a></h2>
       <p>Dashboard relatório do desenvolvimento fiscal de um banco no Brasil.</p>
