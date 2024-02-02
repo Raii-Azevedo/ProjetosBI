@@ -17,12 +17,12 @@
   </tr>
 </table>
 
+<div align="center">
 ## Composição
 - Dados de base financeira excel
 - Power BI
 
-<div align="center">
-  [![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://www.youtube.com/watch?v=kXHJV3o7ovU&list=PLPVMTPUt4GQHa1BeAGUKJrq0Q5UNK_UVv&index=2)
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://www.youtube.com/watch?v=kXHJV3o7ovU&list=PLPVMTPUt4GQHa1BeAGUKJrq0Q5UNK_UVv&index=2)
 </div>
 
 ## Realização
