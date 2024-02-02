@@ -21,8 +21,9 @@
 - Dados de base financeira excel
 - Power BI
 
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://www.youtube.com/watch?v=kXHJV3o7ovU&list=PLPVMTPUt4GQHa1BeAGUKJrq0Q5UNK_UVv&index=2)
-
+<div align="center">
+  [![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://www.youtube.com/watch?v=kXHJV3o7ovU&list=PLPVMTPUt4GQHa1BeAGUKJrq0Q5UNK_UVv&index=2)
+</div>
 
 ## Realização
     - Cálcudos de DESPESAS = - CALCULATE(SUM('Movimentações'[Valor da Movimentação]), 'Movimentações'[Tipo] = "Pagamento"
