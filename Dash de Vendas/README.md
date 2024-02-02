@@ -22,7 +22,7 @@
 - Dados de base financeira excel
 - Power BI
 
-[![Watch the video]()](https://www.youtube.com/watch?v=jX9NHLga8Mo&list=PLPVMTPUt4GQHa1BeAGUKJrq0Q5UNK_UVv&index=4)
+[![Watch the video](https://github.com/Raii-Azevedo/ProjetosBI/blob/master/Dash%20de%20Vendas/Youtube%20Capa.png)](https://www.youtube.com/watch?v=jX9NHLga8Mo&list=PLPVMTPUt4GQHa1BeAGUKJrq0Q5UNK_UVv&index=4)
 </div>
 
 ## Realização
