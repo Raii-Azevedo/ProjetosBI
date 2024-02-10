@@ -10,7 +10,7 @@
 
 <table>
   <tr>
-    <td><img src="" width="400" alt="Imagem"></td>
+    <td><img src="https://github.com/Raii-Azevedo/ProjetosBI/blob/master/Dash%20de%20Vendas/DASH%20VENDAS.gif" width="400" alt="Imagem"></td>
     <td>
       <h2><a href="https://github.com/Raii-Azevedo/ProjetosBI/tree/master/Dash%20de%20Vendas">Vendas</a></h2>
       <p>Dashboard relatório do desempenho de vandas de uma loja</p>
