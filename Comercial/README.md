@@ -25,7 +25,7 @@
 - CSS
 - DAX
 
-[![Watch the video](https://github.com/Raii-Azevedo/ProjetosBI/blob/master/Comercial/FUNDO.png)](https://www.youtube.com/watch?v=HIfrFNRYZ-Y)
+[![Watch the video](https://github.com/Raii-Azevedo/ProjetosBI/blob/master/Comercial/Title.png)](https://www.youtube.com/watch?v=HIfrFNRYZ-Y)
 </div>
 
 
