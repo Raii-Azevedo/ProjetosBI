@@ -16,15 +16,17 @@
     </td>
   </tr>
 </table>
-
 <div align="center">
-## Composição
-- Dados de base de vendas EXCEL
-- Power BI
-- HTML
-- CSS
-- DAX
 
+  
+## Composição
+  - Dados de base de vendas EXCEL
+  - Power BI
+  - HTML
+  - CSS
+  - DAX
+
+## Click on the image to watch the video
 [![Watch the video](https://github.com/Raii-Azevedo/ProjetosBI/blob/master/Comercial/Title.png)](https://www.youtube.com/watch?v=HIfrFNRYZ-Y)
 </div>
 
