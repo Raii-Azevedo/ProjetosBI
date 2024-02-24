@@ -9,9 +9,9 @@
 ## Projetos
 <table>
   <tr>
-    <td><img src="https://github.com/Raii-Azevedo/ProjetosBI/blob/master/Relatório%20Bancos/Relatório%20Bancos.gif" width="400" alt="Imagem"></td>
+    <td><img src="https://github.com/Raii-Azevedo/ProjetosBI/blob/master/Comercial/DASHBOARD%20-%20Comercial.gif" width="400" alt="Imagem"></td>
     <td>
-      <h2><a href="https://github.com/Raii-Azevedo/ProjetosBI/tree/master/Relatório%20Bancos">Relatório Comercial</a></h2>
+      <h2><a href="https://github.com/Raii-Azevedo/ProjetosBI/tree/master/Comercial">Relatório Comercial</a></h2>
       <p>Dashboard relatório de performance de vendas de colaboradores de loja de eletronicos</p>
     </td>
   </tr>
@@ -25,7 +25,7 @@
 - CSS
 - DAX
 
-[![Watch the video]()](https://www.youtube.com/watch?v=HIfrFNRYZ-Y)
+[![Watch the video](https://github.com/Raii-Azevedo/ProjetosBI/blob/master/Comercial/FUNDO.png)](https://www.youtube.com/watch?v=HIfrFNRYZ-Y)
 </div>
 
 
