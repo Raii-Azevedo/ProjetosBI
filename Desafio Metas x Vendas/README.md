@@ -9,13 +9,17 @@
 ## Projetos
 <table>
   <tr>
-    <td><img src="" width="400" alt="Imagem"></td>
+    <td><img src="https://github.com/Raii-Azevedo/ProjetosBI/blob/master/Desafio%20Metas%20x%20Vendas/Imagens/FUNDO.png" width="400" alt="Imagem"></td>
     <td>
       <h2><a href="https://github.com/Raii-Azevedo/ProjetosBI/tree/master/Desafio%20Metas%20x%20Vendas">Relatório de Vendas x Metas</a></h2>
       <p>Dashboard relatório do desempenho de vendas, métricas e faturamento.</p>
     </td>
   </tr>
 </table>
+
+## Click on the image to open the Dashboard
+[![Watch the video](https://github.com/Raii-Azevedo/ProjetosBI/blob/master/Desafio%20Metas%20x%20Vendas/Imagens/FUNDO.png)](https://app.powerbi.com/view?r=eyJrIjoiMjRjYzljZGMtOWM4MC00NDIxLTkxYTEtMjNjMDI1NTllYjI3IiwidCI6IjkxMjlmMDBmLWE5YjctNGVhNy05ODYxLTYwZTZlYmU2OWQwNyJ9)
+</div>
 
 
 ## Composição
@@ -25,7 +29,7 @@
 
 
 ## Realização
-    - [MÉTRICAS](https://github.com/Raii-Azevedo/ProjetosBI/blob/master/Desafio%20Metas%20x%20Vendas/MÉTRICAS.txt)
+- [MÉTRICAS](https://github.com/Raii-Azevedo/ProjetosBI/blob/master/Desafio%20Metas%20x%20Vendas/MÉTRICAS.txt)
 
   ### Let's connect? 🤝
   <div>
