@@ -1,0 +1,222 @@
+[
+  {
+    "idSubcategoria": 1,
+    "Subcategoria": "MP4&MP3",
+    "Categoria": "Audio"
+  },
+  {
+    "idSubcategoria": 2,
+    "Subcategoria": "Recorder",
+    "Categoria": "Audio"
+  },
+  {
+    "idSubcategoria": 3,
+    "Subcategoria": "Radio",
+    "Categoria": "Audio"
+  },
+  {
+    "idSubcategoria": 4,
+    "Subcategoria": "Recording Pen",
+    "Categoria": "Audio"
+  },
+  {
+    "idSubcategoria": 5,
+    "Subcategoria": "Headphones",
+    "Categoria": "Audio"
+  },
+  {
+    "idSubcategoria": 6,
+    "Subcategoria": "Bluetooth Headphones",
+    "Categoria": "Audio"
+  },
+  {
+    "idSubcategoria": 7,
+    "Subcategoria": "Speakers",
+    "Categoria": "Audio"
+  },
+  {
+    "idSubcategoria": 8,
+    "Subcategoria": "Audio Accessories",
+    "Categoria": "Audio"
+  },
+  {
+    "idSubcategoria": 9,
+    "Subcategoria": "Televisions",
+    "Categoria": "TV and Video"
+  },
+  {
+    "idSubcategoria": 10,
+    "Subcategoria": "VCD & DVD",
+    "Categoria": "TV and Video"
+  },
+  {
+    "idSubcategoria": 11,
+    "Subcategoria": "Home Theater System",
+    "Categoria": "TV and Video"
+  },
+  {
+    "idSubcategoria": 13,
+    "Subcategoria": "Car Video",
+    "Categoria": "TV and Video"
+  },
+  {
+    "idSubcategoria": 14,
+    "Subcategoria": "TV & Video Accessories",
+    "Categoria": "TV and Video"
+  },
+  {
+    "idSubcategoria": 15,
+    "Subcategoria": "Laptops",
+    "Categoria": "Computers"
+  },
+  {
+    "idSubcategoria": 16,
+    "Subcategoria": "Netbooks",
+    "Categoria": "Computers"
+  },
+  {
+    "idSubcategoria": 17,
+    "Subcategoria": "Desktops",
+    "Categoria": "Computers"
+  },
+  {
+    "idSubcategoria": 18,
+    "Subcategoria": "Monitors",
+    "Categoria": "Computers"
+  },
+  {
+    "idSubcategoria": 19,
+    "Subcategoria": "Projectors & Screens",
+    "Categoria": "Computers"
+  },
+  {
+    "idSubcategoria": 20,
+    "Subcategoria": "Printers, Scanners & Fax",
+    "Categoria": "Computers"
+  },
+  {
+    "idSubcategoria": 21,
+    "Subcategoria": "Computer Setup & Service",
+    "Categoria": "Computers"
+  },
+  {
+    "idSubcategoria": 22,
+    "Subcategoria": "Computers Accessories",
+    "Categoria": "Computers"
+  },
+  {
+    "idSubcategoria": 23,
+    "Subcategoria": "Digital Cameras",
+    "Categoria": "Cameras and camcorders"
+  },
+  {
+    "idSubcategoria": 24,
+    "Subcategoria": "Digital SLR Cameras",
+    "Categoria": "Cameras and camcorders"
+  },
+  {
+    "idSubcategoria": 25,
+    "Subcategoria": "Film Cameras",
+    "Categoria": "Cameras and camcorders"
+  },
+  {
+    "idSubcategoria": 27,
+    "Subcategoria": "Camcorders",
+    "Categoria": "Cameras and camcorders"
+  },
+  {
+    "idSubcategoria": 28,
+    "Subcategoria": "Cameras & Camcorders Accessories",
+    "Categoria": "Cameras and camcorders"
+  },
+  {
+    "idSubcategoria": 29,
+    "Subcategoria": "Home & Office Phones",
+    "Categoria": "Cell phones"
+  },
+  {
+    "idSubcategoria": 31,
+    "Subcategoria": "Touch Screen Phones",
+    "Categoria": "Cell phones"
+  },
+  {
+    "idSubcategoria": 32,
+    "Subcategoria": "Smart phones & PDAs",
+    "Categoria": "Cell phones"
+  },
+  {
+    "idSubcategoria": 33,
+    "Subcategoria": "Cell phones Accessories",
+    "Categoria": "Cell phones"
+  },
+  {
+    "idSubcategoria": 34,
+    "Subcategoria": "Music CD",
+    "Categoria": "Music, Movies and Audio Books"
+  },
+  {
+    "idSubcategoria": 35,
+    "Subcategoria": "Movie DVD",
+    "Categoria": "Music, Movies and Audio Books"
+  },
+  {
+    "idSubcategoria": 36,
+    "Subcategoria": "Audio Books",
+    "Categoria": "Music, Movies and Audio Books"
+  },
+  {
+    "idSubcategoria": 38,
+    "Subcategoria": "Boxed Games",
+    "Categoria": "Games and Toys"
+  },
+  {
+    "idSubcategoria": 39,
+    "Subcategoria": "Download Games",
+    "Categoria": "Games and Toys"
+  },
+  {
+    "idSubcategoria": 40,
+    "Subcategoria": "Games Accessories",
+    "Categoria": "Games and Toys"
+  },
+  {
+    "idSubcategoria": 41,
+    "Subcategoria": "Washers & Dryers",
+    "Categoria": "Home Appliances"
+  },
+  {
+    "idSubcategoria": 42,
+    "Subcategoria": "Refrigerators",
+    "Categoria": "Home Appliances"
+  },
+  {
+    "idSubcategoria": 43,
+    "Subcategoria": "Microwaves",
+    "Categoria": "Home Appliances"
+  },
+  {
+    "idSubcategoria": 44,
+    "Subcategoria": "Water Heaters",
+    "Categoria": "Home Appliances"
+  },
+  {
+    "idSubcategoria": 45,
+    "Subcategoria": "Coffee Machines",
+    "Categoria": "Home Appliances"
+  },
+  {
+    "idSubcategoria": 46,
+    "Subcategoria": "Lamps",
+    "Categoria": "Home Appliances"
+  },
+  {
+    "idSubcategoria": 47,
+    "Subcategoria": "Air Conditioners",
+    "Categoria": "Home Appliances"
+  },
+  {
+    "idSubcategoria": 48,
+    "Subcategoria": "Fans",
+    "Categoria": "Home Appliances"
+  }
+]

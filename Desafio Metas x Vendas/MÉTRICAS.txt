@@ -1,0 +1,90 @@
+EXPLORATÓRIA
+
+(x) Qual foi o faturamento de todo o período?
+
+
+FATURAMENTO TOTAL = SUMX(fVendas,
+fVendas[Quantidade] * fVendas[Preço Unitário])
+
+(x) Qual era a meta de faturamento deste período?
+META TOTAL = SUMX(dMetas, dMetas[Asia] + dMetas[Europe] + dMetas[North America])
+
+
+
+(x) Qual foi o percentual de atendimento da meta?
+
+% ATENDIMENTO META = [FATURAMENTO TOTAL] / [META TOTAL]
+
+
+
+(x) Qual foi a categoria com maior faturamento?
+
+CATEGORIA COM > FATURAMENTO = CALCULATE(
+    MAX(dSubcategoria[Categoria]),
+    TOPN(1, ALL(dSubcategoria[Categoria]), [QUANTIDADE VENDIDOS])
+)
+
+
+
+(x) O quanto esta categoria representa no total do faturamento, em percentual?
+
+% CATEGORIA TOP NO TOTAL FATURAMENTO = 
+DIVIDE (
+    CALCULATE (
+        SUMX (
+            FILTER (
+                dMetas,
+                dMetas[Categoria] = [CATEGORIA COM > FATURAMENTO]
+            ),
+            dMetas[Asia] + dMetas[Europe] + dMetas[North America]
+        )
+    ),
+    [META TOTAL],
+    0
+) * 100
+
+
+(x) Quais foram as 3 subcategorias com maior faturamento?
+
+3 SUB CATEGORIA COM > FATURAMENTO = CALCULATE(
+    MAX(dSubcategoria[Subcategoria]),
+    TOPN(3, ALL(dSubcategoria[Subcategoria]), [FATURAMENTO TOTAL])
+)
+
+
+(x) Considerando estas mesmas 3 subcategorias, indique os continentes, do maior para o menor faturamento.
+FILTRO N SUPERIOR 3
+
+COMPARATIVO ENTRE OS ANOS
+
+(x) Estamos em março de 2019. Seu objetivo agora é comparar faturamento e meta entre os anos de 2017 e 2018, apontando as high lights obtidas com a análise dos dados. Dessa forma, esperase que você ajude a gerar insights para o Diretor e para as equipes de Gestores regionais a revisarem a projeção de faturamento, e se necessário, recalcular as metas para o ano de 2019. 
+Qual foi a variação entre o faturamento de 2018 e o ano anterior?
+
+VARIAÇÃO 2017 vs 2018 = 
+VAR FaturamentoYTD2017 = [FATURAMENTO 2017]
+VAR FaturamentoYTD2018 = [FATURAMENTO 2018] 
+RETURN
+    DIVIDE (FaturamentoYTD2018 - FaturamentoYTD2017, FaturamentoYTD2017, 0) * 100
+
+
+
+() A variação entre o faturamento de 2018 e o ano anterior foi positiva em todas as subcategorias? 
+Qual foi o percentual de variação de representatividade entre 2018 e o ano anterior na subcategoria Desktops?
+VISUAL (ESCOLHER) 
+
+
+() Qual foi o continente responsável por essa queda de faturamento na subcategoria Desktops?
+VISUAL COMPARATIVO CONTINENTES
+
+() Qual foi a categoria com o maior faturamento em 2018? Qual o valor em R$?
+TEXT COM # DE ANÁLISE
+
+() Qual foi a categoria com a maior variação percentual entre 2017 e 2018? 
+GRÁFICO DE BARRAS
+
+() Quais foram as 3 subcategorias com maior faturamento em 2018?
+RANKING TOP N 3 FILTRO
+
+
+() São as mesmas subcategorias em destaque considerando todos os períodos?
+PLAY NO VISUAL.
