@@ -10,6 +10,16 @@
 
 <table>
   <tr>
+    <td><img src="https://github.com/Raii-Azevedo/ProjetosBI/blob/master/Desafio%20Metas%20x%20Vendas/Imagens/FUNDO.png" width="400" alt="Imagem"></td>
+    <td>
+      <h2><a href="https://github.com/Raii-Azevedo/ProjetosBI/tree/master/Desafio%20Metas%20x%20Vendas">Relatório de Vendas x Metas</a></h2>
+      <p>Dashboard relatório do desempenho de vendas, métricas e faturamento.</p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <td><img src="https://github.com/Raii-Azevedo/ProjetosBI/blob/master/Comercial/DASHBOARD%20-%20Comercial.gif" width="400" alt="Imagem"></td>
     <td>
       <h2><a href="https://github.com/Raii-Azevedo/ProjetosBI/tree/master/Comercial">Relatório Comercial</a></h2>
